@@ -1,7 +1,7 @@
 {
   "DummyResult": {
     "DummyList": {
-      "DummyElement": {
+      "DummyElement": [{
         "attributes": {
           "language": "en-US"
         },
@@ -19,7 +19,7 @@
 			}
 		  }
 		}
-	  }
+	  }]
     }
   }
 }

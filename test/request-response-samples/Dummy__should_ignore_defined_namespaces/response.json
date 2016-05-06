@@ -1,12 +1,12 @@
 {
   "DummyResult": {
     "DummyList": {
-      "DummyElement": {
+      "DummyElement": [{
         "attributes": {
           "language": "en-US"
         },
         "theValue": "Dummy Element Entry"
-      }
+      }]
     }
   }
 }
